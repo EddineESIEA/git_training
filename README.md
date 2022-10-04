@@ -1,1 +1,1 @@
-# git_training-.underline-initialis-
+# git_training
